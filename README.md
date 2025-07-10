@@ -56,13 +56,13 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/chiragbhayal07">
+  <a href="https://www.linkedin.com/in/kuldeeppatil2911">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:chiragbhayal07@gmail.com">
+  <a href="mailto:kp494563@gmail.com@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/chiragbhayal">
+  <a href="https://github.com/kuldeeppatil2911">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://instagram.com/chiragbhayal07">
@@ -72,8 +72,4 @@
 
 ---
 
-> Designed with ❤ by *Chirag Bhayal*<h1 align="center">Hi, I'm Chirag Bhayal 👋</h1>
-<p align="center">Full Stack Developer & Designer | B.Tech CSE @ Parul University</p>
-
----
-
+> Designed with ❤ by *Kuldeep Patil*
