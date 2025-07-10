@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE Student at *Parul University*
-- 💡 Interested in *Full Stack Dev, **REST APIs *
+- 💡 Interested in *Full Stack Dev, **REST APIs*
 - 🔭 Currently building: Uber Clone
 - 🌱 Learning: *MERN Stack, **DSA *
 - 📫 Reach me at: *kp494563@gmail.com*
