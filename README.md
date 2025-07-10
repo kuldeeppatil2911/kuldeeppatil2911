@@ -72,4 +72,4 @@
 
 ---
 
-> Designed with ❤ by *Kuldeep Patil*
+> Designed with 🔥 by *Kuldeep Patil*
