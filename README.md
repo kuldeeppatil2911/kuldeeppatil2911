@@ -1,75 +1,25 @@
-<h1 align="center">Hi, I'm Kuldeep Patil👋</h1>
-<p align="center">Full Stack Developer | B.Tech CSE @ Parul University</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=200&section=header&text=Kuldeep%20Patil&fontSize=48&fontAlignY=36&desc=Software%20Engineer%20%7C%20Backend%20%26%20Distributed%20Systems&descFontSize=20&descAlignY=58&fontColor=ffffff" width="100%" />
 
----
+  [![Profile Views](https://komarev.com/ghpvc/?username=kuldeeppatil2911&style=for-the-badge&color=blueviolet)](https://github.com/kuldeeppatil2911)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeeppatil2911)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuldeeppatil2911)
+  [![Email](https://img.shields.io/badge/Direct%20Dispatch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kp494563@gmail.com)
+</div>
 
-## 🚀 About Me
+<br/>
 
-- 🎓 B.Tech CSE Student at *Parul University*
-- 💡 Interested in *Full Stack Dev*, **REST APIs**
-- 🔭 Currently building: Uber Clone
-- 🌱 Learning: *MERN Stack*, **DSA**
-- 📫 Reach me at: *kp494563@gmail.com*
----
+### ⚙️ System Runtime Specifications
 
-## 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java"/>
-  <img src="https://skillicons.dev/icons?i=python"/>
-  <img src="https://skillicons.dev/icons?i=flask"/>
-  <img src="https://skillicons.dev/icons?i=django"/>
-  <img src="https://skillicons.dev/icons?i=js"/>
-  <img src="https://skillicons.dev/icons?i=react"/>
-  <img src="https://skillicons.dev/icons?i=nodejs"/>
-  <img src="https://skillicons.dev/icons?i=express"/>
-  <img src="https://skillicons.dev/icons?i=mongodb"/>
-  <img src="https://skillicons.dev/icons?i=mysql"/>
-  <img src="https://skillicons.dev/icons?i=html"/>
-  <img src="https://skillicons.dev/icons?i=css"/>
-  <img src="https://skillicons.dev/icons?i=git"/>
-  <img src="https://skillicons.dev/icons?i=github"/>
-  <img src="https://skillicons.dev/icons?i=ps"/>
-
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=chiragbhayal&show_icons=true&theme=tokyonight&count_private=true" height="165" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragbhayal&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
-## 🎯 2025 Goals
-
-- 🚀 Launch *Uber Clone* publicly
-- 👥 Contribute to open-source
-- 🏆 Win a national-level dev/design competition
-- 🌐 Build and publish a design system
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kuldeeppatil2911">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:kp494563@gmail.com@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/kuldeeppatil2911">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://instagram.com/chiragbhayal07">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
-
----
-
-> Designed with 🔥 by *Kuldeep Patil*
+```typescript
+interface SoftwareEngineer {
+  identity: "Kuldeep Patil";
+  credentials: "B.Tech in Computer Science & Engineering @ Parul University";
+  coreDomains: ["Distributed Systems", "Full-Stack Web Architecture", "High-Throughput APIs"];
+  activeDirectives: [
+    "Developing scalable, low-latency microservices",
+    "Optimizing asynchronous state machines and concurrency pipelines",
+    "Competitive algorithmic problem solving & data structures"
+  ];
+  openTo: ["Software Engineering Internships", "Core Backend Roles", "Open Source Initiatives"];
+}
